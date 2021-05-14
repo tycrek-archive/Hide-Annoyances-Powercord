@@ -1,1 +1,15 @@
 /* This is just a placeholder, the actual themes are theme plugins */
+
+/* v2 compact, remove when Powercord v3 is released */
+
+/* Theme plugin for Hide Annoyances by tycrek */
+
+button[aria-label="Open sticker picker"] {
+  display: none;
+}
+
+/* Theme plugin for Hide Annoyances by tycrek */
+
+button[aria-label="Send a gift"] {
+  display: none;
+}
