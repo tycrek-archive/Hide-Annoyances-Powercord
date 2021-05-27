@@ -13,3 +13,9 @@ button[aria-label="Open sticker picker"] {
 button[aria-label="Send a gift"] {
   display: none;
 }
+
+/* Theme plugin for Hide Annoyances by tycrek */
+
+#private-channels-0 {
+  display: none !important;
+}

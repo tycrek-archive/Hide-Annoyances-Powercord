@@ -15,6 +15,11 @@
     		"name": "Hide Sticker Picker",
     		"description": "This isn't fucking WhatsApp",
     		"file": "Hide-Sticker-Picker.css"
-    	}
+    	},
+        {
+            "name": "Hide Stage Discovery",
+            "description": "Wtf is Stages supposed to be",
+            "file": "Hide-Stage-Discovery.css"
+        }
     ]
 }
