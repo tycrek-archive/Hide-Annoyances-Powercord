@@ -1,7 +1,7 @@
 {
     "name": "Hide Annoyances",
     "description": "Hide annoying things that nobody likes, such as the Sticker picker & Gift button. All options are individually toggleable.",
-    "version": "1.1.0",
+    "version": "1.1.1",
     "author": "tycrek#0001",
     "license": "ISC",
     "theme": "Hide-Annoyances.css",
